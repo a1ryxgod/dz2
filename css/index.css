@@ -1,0 +1,14 @@
+p{display: inline;
+
+
+}
+.blue{
+    display: inline-block;
+    background-color: blue;
+    width: 48%;
+}
+
+.gray{display: inline-block;
+background-color: gray;
+width: 48%;
+}
